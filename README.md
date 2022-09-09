@@ -2,6 +2,8 @@
 <h1>❤ Seja bem vindo ao meu GitHub! </h1>
 <p> Me chamo Gabriel Carvalho e sou estudante de Sistemas de Informação, estou atualmente cursando o 4° semestre me interesso muito por SQL, Python e Java, atualmente trabalho com análise de dados na empresa <a href = "https://www.jumplabel.com.br/"> Jump Label Solutions </a>. </p>
 
+<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 <li> Aprofundando em Python para dados </li>
 <li> Me preparando para aprender SAS </li>
 
